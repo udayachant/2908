@@ -1,4 +1,4 @@
-hi- hosts: all
+- hosts: all
   remote_user: ec2-user
   become: yes
   tasks:
